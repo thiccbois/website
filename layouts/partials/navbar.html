@@ -1,0 +1,23 @@
+{{- $main_navigation  := .Site.Params.main_navigation }}
+{{- $sections := index $main_navigation "sections" }}
+<nav class="navbar is-fresh is-transparent no-shadow" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img src="{{ "/images/logos/fresh-alt.svg" | absURL }}" alt="" width="112" height="28">
+      </a>
+    </div>
+
+    <div id="navbar-menu" class="navbar-menu is-static">
+      <div class="navbar-end">
+        {{- range $sections }}
+        <a href="{{ .link }}" class="navbar-item is-secondary">
+          {{ if .is_big }}<span class="button signup-button rounded secondary-btn raised">{{ end }}
+          {{ .title }}
+          {{ if .is_big }}</span>{{ end }}
+        </a>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+</nav>

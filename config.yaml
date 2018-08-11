@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: http://thiccbois.io/
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
@@ -42,47 +42,13 @@ params:
 
     - title: Imprint
       icon: user
-      link: ""
+      link: "#imprint"
 
     - title: Get in touch
       icon: user
       link: "#get-in-touch"
       is_big: true
 
-  sidebar:
-    # Logo (from /images/logos/___.svg)
-    logo: fresh-square
-    sections:
-    - title: User
-      icon: user
-      links:
-      - text: Profile
-        url: /
-      - text: Account
-        url: /
-      - text: Settings
-        url: /
-    - title: Messages
-      icon: envelope
-      links:
-      - text: Inbox
-        url: /
-      - text: Compose
-        url: /
-    - title: Images
-      icon: image
-      links:
-      - text: Library
-        url: /
-      - text: Upload
-        url: /
-    - title: Settings
-      icon: cog
-      links:
-      - text: User settings
-        url: /
-      - text: App settings
-        url: /
   section1:
     title: What we do
     subtitle: Empower teams through coaching mentoring and tooling
@@ -136,9 +102,10 @@ params:
     buttonText: Get started
     buttonLink: "#"
   section5:
-    title: Imprint
-    subtitle: Because its a legal thing
+    title: Get in touch
+    subtitle: Reach out
     image: illustrations/mockups/app-mockup.png
+    post_target: /path/to/sns/endpoint
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg

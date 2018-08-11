@@ -1,0 +1,28 @@
+baseURL = "http://thiccbois.io/"
+canonifyURLs=true
+languageCode = "en-us"
+title = "Thiccbois"
+theme = "air"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved - 2016"
+canonifyurls = true
+
+[author]
+  name = "rosscdh"
+
+[params]
+  description = "Operations as a service"
+  cover = "images/user.jpg"
+  author = "rosscdh"
+  authorlocation = ""
+  authorwebsite = "http://github.io/thiccbois"
+  bio= "my bio"
+  logo = "images/user2.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "syui"
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true

@@ -1,4 +1,4 @@
-.PHONY: all build publish
+.PHONY: all build serve publish
 
 BUCKET_NAME := thiccbois.io
 

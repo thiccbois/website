@@ -8,15 +8,10 @@ DisqusShortname = ""
 Copyright = "All rights reserved - 2016"
 canonifyurls = true
 
-[author]
-  name = "rosscdh"
-
 [params]
   description = "Operations as a service"
-  cover = "images/user.jpg"
-  author = "rosscdh"
   authorlocation = ""
-  authorwebsite = "http://github.io/thiccbois"
+  authorwebsite = "https://github.com/thiccbois/"
   bio= "my bio"
   logo = "images/user2.png"
   googleAnalyticsUserID = ""

@@ -103,9 +103,6 @@ params:
   section5:
     title: Imprint
     subtitle: Because its a legal thing
-    image: illustrations/mockups/app-mockup.png
-    buttonText: Get started
-    buttonLink: "#"
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg

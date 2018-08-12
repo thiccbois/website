@@ -69,14 +69,14 @@ params:
     title: How we do it
     subtitle: People, Product, Process.
     features:
-    - title: Get to know people and stakeholders
+    - title: Get to know People
       text: People are the core of your success. Knowing your people their strengths, weaknesses and how they strive to improve puts us in a great position to advise
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
     - title: Understand the Product
       text: Understanding your team and what they are building gives us a better high-level view of the crucible that needs to be worked with.
       icon: doc-sync
-    - title: Optimise the process
+    - title: Optimise the Process & Tooling
       text: This is a the core of the offering, by understanding the people the product the current process allows us to make optimisations and suggest ways of improving the teams output.
       icon: mobile-feed
   section3:

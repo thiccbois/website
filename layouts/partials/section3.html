@@ -5,12 +5,12 @@
 {{- $buttonText := index $section "buttontext" }}
 {{- $buttonLink := index $section "buttonlink" }}
 {{- $people  := index $section "people" }}
-<section name="{{ $title|urlize }}" class="section is-medium section-secondary">
+<section name="{{ $title|urlize }}" class="section is-medium section-feature-grey">
   <div class="container">
     <div class="title-wrapper has-text-centered">
-      <h2 class="title is-2 light-text is-spaced">{{ $title }}</h2>
+      <h2 class="title is-2 is-spaced">{{ $title }}</h2>
       {{- with $subtitle }}
-      <h3 class="subtitle is-5 light-text">{{ . }}</h3>
+      <h3 class="subtitle is-5">{{ . }}</h3>
       {{- end }}
     </div>
 
@@ -19,12 +19,12 @@
         {{- range $people }}
         <div class="column is-4">
           <figure class="testimonial">
-            <blockquote>
+            <blockquote class="has-text-grey">
               {{ .quote }}
             </blockquote>
             <div class="author">
               <img src="{{ printf "/images/illustrations/faces/%s.png" (string .img) | relURL }}" alt=""/>
-              <h5>{{ .name }}</h5>
+              <h5 class="has-text-dark">{{ .name }}</h5>
               <span class="has-text-black">{{ .job }}</span>
             </div>
           </figure>

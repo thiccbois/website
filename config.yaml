@@ -9,9 +9,10 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Sprint Teams struggling with CI-CD
+    title: Sprint Teams struggling on delivery.
     # Hero subtitle (optional)
-    subtitle: Take stumbling teams to warp-speed. Investigate. Empower. Develop. Communicate. Deploy. Operate.
+    subtitle: Take stumbling teams to warp-speed.
+    body: Investigate. Measure. Empower. Develop. Communicate. Deploy. Operate.
     # Button text
     buttontext: Contact Thiccbois
     # Where the main hero button links to
@@ -81,23 +82,23 @@ params:
       icon: mobile-feed
   section3:
     title: Who we are
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    subtitle: Experienced Disciplined Technical Co-founders and Experts at your service
     people:
     - name: Lauren
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      quote: OMG...
       job: HR Manager
       img: 1
     - name: Ross
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      quote: Silicon Valley, Silicon Roundabout Technical co-founder, I know a few tricks
       job: Smoking Monkey
       img: 3
     - name: Stefan
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      quote: Quiet, I need to focus on this nom nom.
       job: BOFH
       img: 2
   section4:
     title: Get in touch
-    subtitle: Reach out
+    #subtitle: Happy to answer quer
     image: illustrations/mockups/app-mockup.png
     post_target: /path/to/sns/endpoint
   section5:

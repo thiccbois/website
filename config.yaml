@@ -9,7 +9,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Develop. Communicate. Deploy.
+    title: Thiccbois - Investigate. Develop. Communicate. Deploy.
     # Hero subtitle (optional)
     subtitle: Take stumbling teams to warp-speed
     # Button text
@@ -53,48 +53,48 @@ params:
     title: What we do
     subtitle: Empower teams through coaching mentoring and tooling
     tiles:
-    - title: App builder
+    - title: Investigate * Review
       icon: mouse-globe
-      text: This is some explanatory text that is on two rows
+      text: Discover how your teams currently work. Analyse pain-points and suggest ways to improve
       buttonText: Free trial
-    - title: Cloud integration
-      icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
-      buttonText: Get started
-    - title: Add-ons & plugins
+    - title: Coach & Mentor
       icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+      text: Remotely get to know your team and discuss process and strategy for improvement.
+      buttonText: Get started
+    - title: Develop & Implement
+      icon: laptop-cloud
+      text: Develop & implement solutions identified with your team to improve their workflow based on industry standards.
       buttonText: Get started
   section2:
     title: How we do it
-    subtitle: People Product Process
+    subtitle: People, Product, Process.
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Get to know people and stakeholders
+      text: People are the core of your success. Knowing your people their strengths, weaknesses and how they strive to improve puts us in a great position to advise
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Cross-device synchronisation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Understand the Product
+      text: Understanding your team and what they are building gives us a better high-level view of the crucible that needs to be worked with.
       icon: doc-sync
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Optimise the process
+      text: This is a the core of the offering, by understanding the people the product the current process allows us to make optimisations and suggest ways of improving the teams output.
       icon: mobile-feed
   section3:
     title: Who we are
     subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-    clients:
-    - name: Irma Walters
+    people:
+    - name: Ross
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
-      img: 1
-    - name: John Bradley
+      job: Smoking Monkey
+      img: 3
+    - name: Stefan
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
+      job: BOFH
       img: 2
-    - name: Gary Blackman
+    - name: Lauren
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
       job: HR Manager
-      img: 3
+      img: 1
   section4:
     title: Get in touch
     subtitle: Reach out

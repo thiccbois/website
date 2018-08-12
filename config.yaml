@@ -1,6 +1,6 @@
-baseURL: http://thiccbois.io/
+baseURL: /
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Thiccbois - DevOp empowerment through automation
 theme: hugo-fresh
 
 params:
@@ -9,13 +9,13 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Devops. Communicate. Deploy.
+    title: Develop. Communicate. Deploy.
     # Hero subtitle (optional)
     subtitle: Take stumbling teams to warp-speed
     # Button text
-    buttontext: Get started
+    buttontext: Contact Us
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "#get-in-touch"
     # Hero image (from /images/___)
     image: illustrations/worker.svg
     # Footer logos (from /images/logos/clients/___.svg)
@@ -96,16 +96,16 @@ params:
       job: HR Manager
       img: 3
   section4:
+    title: Get in touch
+    subtitle: Reach out
+    image: illustrations/mockups/app-mockup.png
+    post_target: /path/to/sns/endpoint
+  section5:
     title: Imprint
     subtitle: Because its a legal thing
     image: illustrations/mockups/app-mockup.png
     buttonText: Get started
     buttonLink: "#"
-  section5:
-    title: Get in touch
-    subtitle: Reach out
-    image: illustrations/mockups/app-mockup.png
-    post_target: /path/to/sns/endpoint
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg

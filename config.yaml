@@ -56,15 +56,15 @@ params:
     - title: Investigate & Review
       icon: mouse-globe
       text: Discover how your teams currently work. Analyse pain-points and suggest ways to improve
-      buttonText: Free trial
+      #buttonText: Free trial
     - title: Coach & Mentor
       icon: plug-cloud
       text: Remotely get to know your team and discuss process and strategy for improvement.
-      buttonText: Get started
+      #buttonText: Get started
     - title: Develop & Implement
       icon: laptop-cloud
       text: Develop & implement solutions identified with your team to improve their workflow based on industry standards.
-      buttonText: Get started
+      #buttonText: Get started
   section2:
     title: How we do it
     subtitle: People, Product, Process.

@@ -53,7 +53,7 @@ params:
     title: What we do
     subtitle: Empower teams through coaching mentoring and tooling
     tiles:
-    - title: Investigate * Review
+    - title: Investigate & Review
       icon: mouse-globe
       text: Discover how your teams currently work. Analyse pain-points and suggest ways to improve
       buttonText: Free trial

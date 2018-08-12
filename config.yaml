@@ -9,11 +9,11 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Thiccbois - Investigate. Develop. Communicate. Deploy. Operate.
+    title: Sprint Teams struggling with CI-CD
     # Hero subtitle (optional)
-    subtitle: Take stumbling teams to warp-speed
+    subtitle: Take stumbling teams to warp-speed. Investigate. Empower. Develop. Communicate. Deploy. Operate.
     # Button text
-    buttontext: Contact Us
+    buttontext: Contact Thiccbois
     # Where the main hero button links to
     buttonlink: "#get-in-touch"
     # Hero image (from /images/___)
